@@ -1,19 +1,146 @@
-# 💫 About Me:
-🎓 3rd-year Undergraduate at IIIT Vadodara<br><br>🤖 Specialized in Agentic AI Pipelines — building intelligent, modular, and scalable agent systems<br><br>🧠 Hands-on expertise with LangChain, LangGraph, and LLM-driven workflow engineering<br><br>💼 Completed an AI Internship, working on real-world model integration & automation<br><br>🛠 Actively exploring multi-agent orchestration, reasoning frameworks, and production-ready AI tooling<br><br>📬 Open to collaborations & discussions — reach out if you have any query related to LangChain/LangGraph or AI system design<br><br>🚀 Passionate about applying AI to solve practical problems and crafting developer-friendly tools
+<div align="center">
 
+```
+   ██╗███████╗███╗   ██╗██╗██╗     
+   ██║██╔════╝████╗  ██║██║██║     
+   ██║█████╗  ██╔██╗ ██║██║██║     
+██╗██║██╔══╝  ██║╚██╗██║██║██║     
+╚████║███████╗██║ ╚████║██║███████╗
+ ╚═══╝╚══════╝╚═╝  ╚═══╝╚═╝╚══════╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._jenil.p_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenilparmar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jenilparmar94091@gmail.com) 
+# Jenil Parmar
+### Building AI agents that actually work in production.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jenilparmar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jenilparmar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilparmar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer+%F0%9F%A4%96;LangGraph+%2B+LangChain+Specialist+%F0%9F%94%97;Multi-Agent+Orchestration+Architect+%F0%9F%95%B8%EF%B8%8F;Backend+Engineer+%7C+FastAPI+%2B+Spring+Boot+%E2%9A%A1)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **3rd-year CS undergrad at IIIT Vadodara** (CGPA: 8.64) building production-grade AI systems — not demos, not notebooks, but systems that run at scale.
+
+Currently a **Founding AI & Backend Engineer at Aegis**, where I'm engineering security infrastructure for Model Context Protocol (MCP) integrations — think RBAC, prompt injection mitigation, and end-to-end audit layers for autonomous AI agents.
+
+Before that, at **CNVRT Labs**, I shipped a multi-agent social media content pipeline on LangGraph that cut API latency by **77%** (6s → 1.34s) and hit **94.6% weekly availability**.
+
+My sweet spot: the intersection of **LLM reasoning**, **distributed systems**, and **production reliability**. If you're building agentic pipelines or wrestling with LangGraph — let's talk.
+
+- 🏗️ **Specialty:** Multi-agent orchestration, MCP security, microservices
+- 🧪 **Currently exploring:** Reasoning frameworks, agent governance, real-time AI streaming
+- 🏆 **GDG Agentic AI Day** participant | **Top 10 Hackathon Finalist**
+- 📍 Gandhinagar, India
+- 📬 Reach me: [jenilparmar94091@gmail.com](mailto:jenilparmar94091@gmail.com)
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenilparmar)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jenilparmar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_._jenil.p_._)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenilparmar94091@gmail.com)
+
+---
+
+## ⚡ Experience Highlights
+
+| Role | Company | Impact |
+|------|---------|--------|
+| 🔐 Founding AI & Backend Engineer | **Aegis** *(May 2026 – Present)* | Built RBAC + security guardrails for MCP agents across GitHub, PostgreSQL, MongoDB |
+| 🤖 AI & Backend Engineer | **CNVRT Labs** *(Dec 2025 – Apr 2026)* | Reduced API latency by **77%** · Achieved **94.6%** weekly availability |
+| 🏆 GDG Agentic AI Day | **Google** | 30-hour AI prototype sprint using Gemini |
+| 🥈 SQL-NL DBMS | **GDG Hackathon** (Top 10) | Natural language to SQL · **47% latency reduction** |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & Agents
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### 🔧 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+
+### 🗄️ Data & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### 🧠 ML / Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenilparmar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=jenilparmar&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilparmar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jenilparmar&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jenilparmar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🔥 What I'm Building
+
+```python
+class JenilParmar:
+    role        = "Founding AI & Backend Engineer @ Aegis"
+    focus       = ["MCP Security", "Agent Governance", "Multi-Agent Systems"]
+    stack       = ["LangGraph", "FastAPI", "PostgreSQL", "Python"]
+    currently   = "Hardening AI agent infrastructure for production"
+    
+    def get_in_touch(self):
+        return "jenilparmar94091@gmail.com"
+```
+
+---
+
+## 📌 Featured Project
+
+### 🧠 SQL–Natural Language DBMS *(GDG Hackathon — Top 10 Finalist)*
+> Query any SQL database or CSV using plain English. Built with LangGraph + multi-threaded agent architecture.
+
+- ⚡ **47% latency reduction** (15s → 8s)
+- 🔗 Full PostgreSQL compatibility — joins, views, nested subqueries
+- 🌐 Next.js frontend with real-time results
+
+[![GitHub](https://img.shields.io/badge/View_Repo-121011?style=for-the-badge&logo=github)](https://github.com/jenilparmar)
+
+---
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+*Open to collaborations, internships, and conversations about LangGraph/LangChain or AI systems.*
+
+</div>
