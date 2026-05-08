@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **3rd-year CS undergrad at IIIT Vadodara** (CGPA: 8.64) building production-grade AI systems — not demos, not notebooks, but systems that run at scale.
+I'm a **4th-year CS undergrad at IIIT Vadodara** (CGPA: 8.64) building production-grade AI systems — not demos, not notebooks, but systems that run at scale.
 
 Currently a **Founding AI & Backend Engineer at Aegis**, where I'm engineering security infrastructure for Model Context Protocol (MCP) integrations — think RBAC, prompt injection mitigation, and end-to-end audit layers for autonomous AI agents.
 
