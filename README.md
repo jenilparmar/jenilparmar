@@ -1,13 +1,3 @@
-<div align="center">
-
-```
-   ██╗███████╗███╗   ██╗██╗██╗     
-   ██║██╔════╝████╗  ██║██║██║     
-   ██║█████╗  ██╔██╗ ██║██║██║     
-██╗██║██╔══╝  ██║╚██╗██║██║██║     
-╚████║███████╗██║ ╚████║██║███████╗
- ╚═══╝╚══════╝╚═╝  ╚═══╝╚═╝╚══════╝
-```
 
 # Jenil Parmar
 ### Building AI agents that actually work in production.
@@ -20,11 +10,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **4th-year CS undergrad at IIIT Vadodara** (CGPA: 8.64) building production-grade AI systems — not demos, not notebooks, but systems that run at scale.
+I'm a **4th-year CS undergrad at IIIT Vadodara** (CGPA: 8.51) building production-grade AI systems — not demos, not notebooks, but systems that run at scale.
 
-Currently a **Founding AI & Backend Engineer at Aegis**, where I'm engineering security infrastructure for Model Context Protocol (MCP) integrations — think RBAC, prompt injection mitigation, and end-to-end audit layers for autonomous AI agents.
+Currently a **Founding AI & Backend Engineer at Aegis**, engineering a governance and security proxy layer for Model Context Protocol (MCP) integrations — Contextual Intelligence Layer (Strategy-pattern policy engine), Agent Workspace (Mediator-pattern multi-agent coordination), prompt injection mitigation, and end-to-end audit logging, cutting agent token usage by **68%**.
 
-Before that, at **CNVRT Labs**, I shipped a multi-agent social media content pipeline on LangGraph that cut API latency by **77%** (6s → 1.34s) and hit **94.6% weekly availability**.
+Before that, at **CNVRT Labs**, I architected a multi-agent social media content pipeline on LangGraph and led the migration from a monolith to distributed microservices.
 
 My sweet spot: the intersection of **LLM reasoning**, **distributed systems**, and **production reliability**. If you're building agentic pipelines or wrestling with LangGraph — let's talk.
 
@@ -49,8 +39,8 @@ My sweet spot: the intersection of **LLM reasoning**, **distributed systems**, a
 
 | Role | Company | Impact |
 |------|---------|--------|
-| 🔐 Founding AI & Backend Engineer | **Aegis** *(May 2026 – Present)* | Built RBAC + security guardrails for MCP agents across GitHub, PostgreSQL, MongoDB |
-| 🤖 AI & Backend Engineer | **CNVRT Labs** *(Dec 2025 – Apr 2026)* | Reduced API latency by **77%** · Achieved **94.6%** weekly availability |
+| 🔐 Founding AI & Backend Engineer | **Aegis** *(Jan 2026 – Present)* | Built governance layer (CIL, Agent Workspace, audit logging) for MCP agents · cut token usage **68%** |
+| 🤖 AI & Backend Engineer | **CNVRT Labs** *(Dec 2025 – Jan 2026)* | Architected LangGraph multi-agent pipeline · led monolith → microservices migration |
 | 🏆 GDG Agentic AI Day | **Google** | 30-hour AI prototype sprint using Gemini |
 | 🥈 SQL-NL DBMS | **GDG Hackathon** (Top 10) | Natural language to SQL · **47% latency reduction** |
 
@@ -66,14 +56,15 @@ My sweet spot: the intersection of **LLM reasoning**, **distributed systems**, a
 ### 🔧 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
 ### 🗄️ Data & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![CassandraDB](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🧠 ML / Data Science
@@ -115,7 +106,7 @@ My sweet spot: the intersection of **LLM reasoning**, **distributed systems**, a
 class JenilParmar:
     role        = "Founding AI & Backend Engineer @ Aegis"
     focus       = ["MCP Security", "Agent Governance", "Multi-Agent Systems"]
-    stack       = ["LangGraph", "FastAPI", "PostgreSQL", "Python"]
+    stack       = ["LangGraph", "FastAPI", "PostgreSQL", "Python", "gRPC"]
     currently   = "Hardening AI agent infrastructure for production"
     
     def get_in_touch(self):
